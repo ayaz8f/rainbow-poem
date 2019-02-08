@@ -3,6 +3,7 @@ violet
 indigo
 blue
 green
+red
 yellow
 orange
 red
